@@ -1,0 +1,26 @@
+[0.512s] Invoking command in '/home/adi/arduinobot_ws/build/aruinobot_cpp_examples': CMAKE_PREFIX_PATH=/home/adi/arduinobot_ws/install/arduinobot_msgs:/home/adi/arduinobot_ws/install/arduinobot_movit:/home/adi/arduinobot_ws/install/arduinobot_description:/home/adi/arduinobot_ws/install/arduinobot_controller:/home/adi/arduinobot_ws/install/arduinobot_utils:/home/adi/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble:/home/adi/catkin_ws/devel:/opt/ros/noetic /usr/bin/cmake --build /home/adi/arduinobot_ws/build/aruinobot_cpp_examples -- -j12 -l12
+[0.560s] [35m[1mConsolidate compiler generated dependencies of target simple_moveit_interface[0m
+[0.590s] [ 50%] [32mBuilding CXX object CMakeFiles/simple_moveit_interface.dir/src/simple_moveit_interface.cpp.o[0m
+[6.795s] [100%] [32m[1mLinking CXX executable simple_moveit_interface[0m
+[7.084s] [100%] Built target simple_moveit_interface
+[7.092s] Invoked command in '/home/adi/arduinobot_ws/build/aruinobot_cpp_examples' returned '0': CMAKE_PREFIX_PATH=/home/adi/arduinobot_ws/install/arduinobot_msgs:/home/adi/arduinobot_ws/install/arduinobot_movit:/home/adi/arduinobot_ws/install/arduinobot_description:/home/adi/arduinobot_ws/install/arduinobot_controller:/home/adi/arduinobot_ws/install/arduinobot_utils:/home/adi/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble:/home/adi/catkin_ws/devel:/opt/ros/noetic /usr/bin/cmake --build /home/adi/arduinobot_ws/build/aruinobot_cpp_examples -- -j12 -l12
+[7.110s] Invoking command in '/home/adi/arduinobot_ws/build/aruinobot_cpp_examples': CMAKE_PREFIX_PATH=/home/adi/arduinobot_ws/install/arduinobot_msgs:/home/adi/arduinobot_ws/install/arduinobot_movit:/home/adi/arduinobot_ws/install/arduinobot_description:/home/adi/arduinobot_ws/install/arduinobot_controller:/home/adi/arduinobot_ws/install/arduinobot_utils:/home/adi/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble:/home/adi/catkin_ws/devel:/opt/ros/noetic /usr/bin/cmake --install /home/adi/arduinobot_ws/build/aruinobot_cpp_examples
+[7.115s] -- Install configuration: ""
+[7.115s] -- Installing: /home/adi/arduinobot_ws/install/aruinobot_cpp_examples/lib/aruinobot_cpp_examples/simple_moveit_interface
+[7.116s] -- Set runtime path of "/home/adi/arduinobot_ws/install/aruinobot_cpp_examples/lib/aruinobot_cpp_examples/simple_moveit_interface" to ""
+[7.116s] -- Up-to-date: /home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/ament_index/resource_index/package_run_dependencies/aruinobot_cpp_examples
+[7.116s] -- Up-to-date: /home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/ament_index/resource_index/parent_prefix_path/aruinobot_cpp_examples
+[7.116s] -- Up-to-date: /home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/aruinobot_cpp_examples/environment/ament_prefix_path.sh
+[7.116s] -- Up-to-date: /home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/aruinobot_cpp_examples/environment/ament_prefix_path.dsv
+[7.116s] -- Up-to-date: /home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/aruinobot_cpp_examples/environment/path.sh
+[7.116s] -- Up-to-date: /home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/aruinobot_cpp_examples/environment/path.dsv
+[7.116s] -- Up-to-date: /home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/aruinobot_cpp_examples/local_setup.bash
+[7.116s] -- Up-to-date: /home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/aruinobot_cpp_examples/local_setup.sh
+[7.117s] -- Up-to-date: /home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/aruinobot_cpp_examples/local_setup.zsh
+[7.117s] -- Up-to-date: /home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/aruinobot_cpp_examples/local_setup.dsv
+[7.117s] -- Installing: /home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/aruinobot_cpp_examples/package.dsv
+[7.117s] -- Up-to-date: /home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/ament_index/resource_index/packages/aruinobot_cpp_examples
+[7.117s] -- Up-to-date: /home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/aruinobot_cpp_examples/cmake/aruinobot_cpp_examplesConfig.cmake
+[7.117s] -- Up-to-date: /home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/aruinobot_cpp_examples/cmake/aruinobot_cpp_examplesConfig-version.cmake
+[7.117s] -- Up-to-date: /home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/aruinobot_cpp_examples/package.xml
+[7.118s] Invoked command in '/home/adi/arduinobot_ws/build/aruinobot_cpp_examples' returned '0': CMAKE_PREFIX_PATH=/home/adi/arduinobot_ws/install/arduinobot_msgs:/home/adi/arduinobot_ws/install/arduinobot_movit:/home/adi/arduinobot_ws/install/arduinobot_description:/home/adi/arduinobot_ws/install/arduinobot_controller:/home/adi/arduinobot_ws/install/arduinobot_utils:/home/adi/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble:/home/adi/catkin_ws/devel:/opt/ros/noetic /usr/bin/cmake --install /home/adi/arduinobot_ws/build/aruinobot_cpp_examples

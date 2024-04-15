@@ -1,0 +1,29 @@
+[1.019s] Invoking command in '/home/adi/arduinobot_ws/src/arduinobot_py_examples': PYTHONPATH=/home/adi/arduinobot_ws/build/arduinobot_py_examples/prefix_override:/home/adi/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/arduinobot_py_examples build --build-base /home/adi/arduinobot_ws/build/arduinobot_py_examples/build install --record /home/adi/arduinobot_ws/build/arduinobot_py_examples/install.log --single-version-externally-managed install_data
+[1.217s] running egg_info
+[1.217s] writing ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/PKG-INFO
+[1.217s] writing dependency_links to ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/dependency_links.txt
+[1.217s] writing entry points to ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/entry_points.txt
+[1.218s] writing requirements to ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/requires.txt
+[1.218s] writing top-level names to ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/top_level.txt
+[1.221s] reading manifest file '../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/SOURCES.txt'
+[1.222s] writing manifest file '../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/SOURCES.txt'
+[1.222s] running build
+[1.222s] running build_py
+[1.222s] copying arduinobot_py_examples/simple_action_server.py -> /home/adi/arduinobot_ws/build/arduinobot_py_examples/build/lib/arduinobot_py_examples
+[1.222s] running install
+[1.223s] running install_lib
+[1.223s] copying /home/adi/arduinobot_ws/build/arduinobot_py_examples/build/lib/arduinobot_py_examples/simple_action_server.py -> /home/adi/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples
+[1.224s] byte-compiling /home/adi/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples/simple_action_server.py to simple_action_server.cpython-310.pyc
+[1.224s] running install_data
+[1.224s] running install_egg_info
+[1.225s] removing '/home/adi/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples-0.0.0-py3.10.egg-info' (and everything under it)
+[1.226s] Copying ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info to /home/adi/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples-0.0.0-py3.10.egg-info
+[1.226s] running install_scripts
+[1.243s] Installing simple_action_server script to /home/adi/arduinobot_ws/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[1.243s] Installing simple_client script to /home/adi/arduinobot_ws/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[1.243s] Installing simple_parameter script to /home/adi/arduinobot_ws/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[1.243s] Installing simple_publisher script to /home/adi/arduinobot_ws/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[1.244s] Installing simple_server script to /home/adi/arduinobot_ws/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[1.244s] Installing simple_subscriber script to /home/adi/arduinobot_ws/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[1.244s] writing list of installed files to '/home/adi/arduinobot_ws/build/arduinobot_py_examples/install.log'
+[1.272s] Invoked command in '/home/adi/arduinobot_ws/src/arduinobot_py_examples' returned '0': PYTHONPATH=/home/adi/arduinobot_ws/build/arduinobot_py_examples/prefix_override:/home/adi/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/arduinobot_py_examples build --build-base /home/adi/arduinobot_ws/build/arduinobot_py_examples/build install --record /home/adi/arduinobot_ws/build/arduinobot_py_examples/install.log --single-version-externally-managed install_data

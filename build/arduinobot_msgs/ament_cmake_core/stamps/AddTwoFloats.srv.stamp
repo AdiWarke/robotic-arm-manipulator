@@ -1,0 +1,6 @@
+# Request msg
+float64 a
+float64 b
+---
+# Response msg
+float64 sum

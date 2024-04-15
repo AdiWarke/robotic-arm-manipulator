@@ -1,0 +1,338 @@
+[0.018s] Invoking command in '/home/adi/arduinobot_ws/build/arduinobot_msgs': CMAKE_PREFIX_PATH=/home/adi/arduinobot_ws/install/arduinobot_msgs:/home/adi/arduinobot_ws/install/arduinobot_movit:/home/adi/arduinobot_ws/install/arduinobot_description:/home/adi/arduinobot_ws/install/arduinobot_controller:/home/adi/arduinobot_ws/install/arduinobot_utils:/home/adi/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble:/home/adi/catkin_ws/devel:/opt/ros/noetic /usr/bin/cmake --build /home/adi/arduinobot_ws/build/arduinobot_msgs -- -j12 -l12
+[0.049s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.165s] -- Found std_msgs: 4.2.3 (/opt/ros/humble/share/std_msgs/cmake)
+[0.195s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.198s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.206s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.219s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.235s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.279s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.664s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[0.951s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.039s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.056s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[1.073s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.074s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[1.074s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[1.089s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.105s] -- Added test 'lint_cmake' to check CMake code style
+[1.106s] -- Added test 'xmllint' to check XML markup files
+[1.109s] -- Configuring done
+[1.144s] -- Generating done
+[1.146s] -- Build files have been written to: /home/adi/arduinobot_ws/build/arduinobot_msgs
+[1.166s] [  1%] [34m[1mGenerating C code for ROS interfaces[0m
+[1.173s] [  3%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[1.179s] [  3%] Built target ament_cmake_python_copy_arduinobot_msgs
+[1.402s] running egg_info
+[1.403s] writing arduinobot_msgs.egg-info/PKG-INFO
+[1.403s] writing dependency_links to arduinobot_msgs.egg-info/dependency_links.txt
+[1.403s] writing top-level names to arduinobot_msgs.egg-info/top_level.txt
+[1.407s] reading manifest file 'arduinobot_msgs.egg-info/SOURCES.txt'
+[1.408s] writing manifest file 'arduinobot_msgs.egg-info/SOURCES.txt'
+[1.433s] [  3%] Built target ament_cmake_python_build_arduinobot_msgs_egg
+[1.813s] [35m[1mConsolidate compiler generated dependencies of target arduinobot_msgs__rosidl_generator_c[0m
+[1.813s] [  3%] Built target arduinobot_msgs__cpp
+[1.824s] [ 14%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[1.824s] [ 14%] [32mBuilding C object CMakeFiles/arduinobot_msgs__rosidl_generator_c.dir/rosidl_generator_c/arduinobot_msgs/srv/detail/euler_to_quaternion__functions.c.o[0m
+[1.825s] [ 14%] [32mBuilding C object CMakeFiles/arduinobot_msgs__rosidl_generator_c.dir/rosidl_generator_c/arduinobot_msgs/srv/detail/quaternion_to_euler__functions.c.o[0m
+[1.825s] [ 14%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[1.825s] [ 14%] [32mBuilding C object CMakeFiles/arduinobot_msgs__rosidl_generator_c.dir/rosidl_generator_c/arduinobot_msgs/srv/detail/add_two_floats__functions.c.o[0m
+[1.825s] [ 16%] [32mBuilding C object CMakeFiles/arduinobot_msgs__rosidl_generator_c.dir/rosidl_generator_c/arduinobot_msgs/action/detail/fibonacci__functions.c.o[0m
+[1.825s] [ 16%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[1.988s] [ 18%] [32m[1mLinking C shared library libarduinobot_msgs__rosidl_generator_c.so[0m
+[2.028s] [ 18%] Built target arduinobot_msgs__rosidl_generator_c
+[2.041s] [ 23%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[2.041s] [ 23%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[2.041s] [ 23%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[2.260s] [35m[1mConsolidate compiler generated dependencies of target arduinobot_msgs__rosidl_typesupport_cpp[0m
+[2.273s] [ 30%] [32mBuilding CXX object CMakeFiles/arduinobot_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/arduinobot_msgs/srv/quaternion_to_euler__type_support.cpp.o[0m
+[2.273s] [ 30%] [32mBuilding CXX object CMakeFiles/arduinobot_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/arduinobot_msgs/action/fibonacci__type_support.cpp.o[0m
+[2.273s] [ 30%] [32mBuilding CXX object CMakeFiles/arduinobot_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/arduinobot_msgs/srv/add_two_floats__type_support.cpp.o[0m
+[2.274s] [ 30%] [32mBuilding CXX object CMakeFiles/arduinobot_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/arduinobot_msgs/srv/euler_to_quaternion__type_support.cpp.o[0m
+[2.415s] [35m[1mConsolidate compiler generated dependencies of target arduinobot_msgs__rosidl_typesupport_introspection_cpp[0m
+[2.435s] [ 34%] [32mBuilding CXX object CMakeFiles/arduinobot_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/arduinobot_msgs/srv/detail/quaternion_to_euler__type_support.cpp.o[0m
+[2.436s] [ 34%] [32mBuilding CXX object CMakeFiles/arduinobot_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/arduinobot_msgs/srv/detail/add_two_floats__type_support.cpp.o[0m
+[2.439s] [ 36%] [32mBuilding CXX object CMakeFiles/arduinobot_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/arduinobot_msgs/action/detail/fibonacci__type_support.cpp.o[0m
+[2.468s] [ 38%] [32mBuilding CXX object CMakeFiles/arduinobot_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/arduinobot_msgs/srv/detail/euler_to_quaternion__type_support.cpp.o[0m
+[2.584s] [35m[1mConsolidate compiler generated dependencies of target arduinobot_msgs__rosidl_typesupport_c[0m
+[2.628s] [ 40%] [32mBuilding CXX object CMakeFiles/arduinobot_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/arduinobot_msgs/srv/add_two_floats__type_support.cpp.o[0m
+[2.646s] [35m[1mConsolidate compiler generated dependencies of target arduinobot_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[2.696s] [ 41%] [32mBuilding CXX object CMakeFiles/arduinobot_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/arduinobot_msgs/srv/euler_to_quaternion__type_support.cpp.o[0m
+[2.702s] [ 43%] [32mBuilding CXX object CMakeFiles/arduinobot_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/arduinobot_msgs/srv/quaternion_to_euler__type_support.cpp.o[0m
+[2.703s] [ 45%] [32mBuilding CXX object CMakeFiles/arduinobot_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/arduinobot_msgs/srv/detail/dds_fastrtps/add_two_floats__type_support.cpp.o[0m
+[2.706s] [ 47%] [32mBuilding CXX object CMakeFiles/arduinobot_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/arduinobot_msgs/action/fibonacci__type_support.cpp.o[0m
+[2.734s] [ 49%] [32mBuilding CXX object CMakeFiles/arduinobot_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/arduinobot_msgs/srv/detail/dds_fastrtps/euler_to_quaternion__type_support.cpp.o[0m
+[2.752s] [ 50%] [32mBuilding CXX object CMakeFiles/arduinobot_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/arduinobot_msgs/srv/detail/dds_fastrtps/quaternion_to_euler__type_support.cpp.o[0m
+[2.753s] [ 52%] [32mBuilding CXX object CMakeFiles/arduinobot_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/arduinobot_msgs/action/detail/dds_fastrtps/fibonacci__type_support.cpp.o[0m
+[2.797s] [ 54%] [32m[1mLinking CXX shared library libarduinobot_msgs__rosidl_typesupport_c.so[0m
+[2.889s] [ 54%] Built target arduinobot_msgs__rosidl_typesupport_c
+[3.014s] [35m[1mConsolidate compiler generated dependencies of target arduinobot_msgs__rosidl_typesupport_introspection_c[0m
+[3.044s] [ 56%] [32mBuilding C object CMakeFiles/arduinobot_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/arduinobot_msgs/srv/detail/add_two_floats__type_support.c.o[0m
+[3.053s] [ 58%] [32mBuilding C object CMakeFiles/arduinobot_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/arduinobot_msgs/srv/detail/quaternion_to_euler__type_support.c.o[0m
+[3.054s] [ 60%] [32m[1mLinking CXX shared library libarduinobot_msgs__rosidl_typesupport_cpp.so[0m
+[3.057s] [ 61%] [32mBuilding C object CMakeFiles/arduinobot_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/arduinobot_msgs/srv/detail/euler_to_quaternion__type_support.c.o[0m
+[3.057s] [35m[1mConsolidate compiler generated dependencies of target arduinobot_msgs__rosidl_typesupport_fastrtps_c[0m
+[3.062s] [ 63%] [32mBuilding C object CMakeFiles/arduinobot_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/arduinobot_msgs/action/detail/fibonacci__type_support.c.o[0m
+[3.092s] [ 65%] [32mBuilding CXX object CMakeFiles/arduinobot_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/arduinobot_msgs/srv/detail/euler_to_quaternion__type_support_c.cpp.o[0m
+[3.102s] [ 67%] [32mBuilding CXX object CMakeFiles/arduinobot_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/arduinobot_msgs/srv/detail/add_two_floats__type_support_c.cpp.o[0m
+[3.102s] [ 69%] [32mBuilding CXX object CMakeFiles/arduinobot_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/arduinobot_msgs/srv/detail/quaternion_to_euler__type_support_c.cpp.o[0m
+[3.115s] [ 70%] [32mBuilding CXX object CMakeFiles/arduinobot_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/arduinobot_msgs/action/detail/fibonacci__type_support_c.cpp.o[0m
+[3.151s] [ 72%] [32m[1mLinking C shared library libarduinobot_msgs__rosidl_typesupport_introspection_c.so[0m
+[3.151s] [ 72%] Built target arduinobot_msgs__rosidl_typesupport_cpp
+[3.198s] [ 72%] Built target arduinobot_msgs__rosidl_typesupport_introspection_c
+[3.327s] [ 74%] [32m[1mLinking CXX shared library libarduinobot_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[3.405s] [ 74%] Built target arduinobot_msgs__rosidl_typesupport_introspection_cpp
+[3.556s] [ 76%] [32m[1mLinking CXX shared library libarduinobot_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[3.586s] [ 78%] [32m[1mLinking CXX shared library libarduinobot_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[3.613s] [ 78%] Built target arduinobot_msgs__rosidl_typesupport_fastrtps_c
+[3.642s] [ 78%] Built target arduinobot_msgs__rosidl_typesupport_fastrtps_cpp
+[3.654s] [ 78%] Built target arduinobot_msgs
+[3.665s] [ 80%] [34m[1mGenerating Python code for ROS interfaces[0m
+[4.615s] [ 80%] Built target arduinobot_msgs__py
+[4.623s] [35m[1mConsolidate compiler generated dependencies of target arduinobot_msgs__rosidl_generator_py[0m
+[4.633s] [ 87%] [32mBuilding C object CMakeFiles/arduinobot_msgs__rosidl_generator_py.dir/rosidl_generator_py/arduinobot_msgs/srv/_add_two_floats_s.c.o[0m
+[4.633s] [ 87%] [32mBuilding C object CMakeFiles/arduinobot_msgs__rosidl_generator_py.dir/rosidl_generator_py/arduinobot_msgs/srv/_euler_to_quaternion_s.c.o[0m
+[4.633s] [ 87%] [32mBuilding C object CMakeFiles/arduinobot_msgs__rosidl_generator_py.dir/rosidl_generator_py/arduinobot_msgs/srv/_quaternion_to_euler_s.c.o[0m
+[4.633s] [ 87%] [32mBuilding C object CMakeFiles/arduinobot_msgs__rosidl_generator_py.dir/rosidl_generator_py/arduinobot_msgs/action/_fibonacci_s.c.o[0m
+[4.753s] [ 89%] [32m[1mLinking C shared library rosidl_generator_py/arduinobot_msgs/libarduinobot_msgs__rosidl_generator_py.so[0m
+[4.783s] [ 89%] Built target arduinobot_msgs__rosidl_generator_py
+[4.791s] [35m[1mConsolidate compiler generated dependencies of target arduinobot_msgs__rosidl_typesupport_c__pyext[0m
+[4.791s] [35m[1mConsolidate compiler generated dependencies of target arduinobot_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[4.791s] [35m[1mConsolidate compiler generated dependencies of target arduinobot_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[4.799s] [ 94%] [32mBuilding C object CMakeFiles/arduinobot_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/arduinobot_msgs/_arduinobot_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[4.799s] [ 94%] [32mBuilding C object CMakeFiles/arduinobot_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/arduinobot_msgs/_arduinobot_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[4.800s] [ 94%] [32mBuilding C object CMakeFiles/arduinobot_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/arduinobot_msgs/_arduinobot_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[4.895s] [100%] [32m[1mLinking C shared library rosidl_generator_py/arduinobot_msgs/arduinobot_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[4.895s] [100%] [32m[1mLinking C shared library rosidl_generator_py/arduinobot_msgs/arduinobot_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[4.895s] [100%] [32m[1mLinking C shared library rosidl_generator_py/arduinobot_msgs/arduinobot_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[4.925s] [100%] Built target arduinobot_msgs__rosidl_typesupport_fastrtps_c__pyext
+[4.925s] [100%] Built target arduinobot_msgs__rosidl_typesupport_introspection_c__pyext
+[4.925s] [100%] Built target arduinobot_msgs__rosidl_typesupport_c__pyext
+[4.932s] Invoked command in '/home/adi/arduinobot_ws/build/arduinobot_msgs' returned '0': CMAKE_PREFIX_PATH=/home/adi/arduinobot_ws/install/arduinobot_msgs:/home/adi/arduinobot_ws/install/arduinobot_movit:/home/adi/arduinobot_ws/install/arduinobot_description:/home/adi/arduinobot_ws/install/arduinobot_controller:/home/adi/arduinobot_ws/install/arduinobot_utils:/home/adi/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble:/home/adi/catkin_ws/devel:/opt/ros/noetic /usr/bin/cmake --build /home/adi/arduinobot_ws/build/arduinobot_msgs -- -j12 -l12
+[4.991s] Invoking command in '/home/adi/arduinobot_ws/build/arduinobot_msgs': CMAKE_PREFIX_PATH=/home/adi/arduinobot_ws/install/arduinobot_msgs:/home/adi/arduinobot_ws/install/arduinobot_movit:/home/adi/arduinobot_ws/install/arduinobot_description:/home/adi/arduinobot_ws/install/arduinobot_controller:/home/adi/arduinobot_ws/install/arduinobot_utils:/home/adi/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble:/home/adi/catkin_ws/devel:/opt/ros/noetic /usr/bin/cmake --install /home/adi/arduinobot_ws/build/arduinobot_msgs
+[4.996s] -- Install configuration: ""
+[4.996s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/ament_index/resource_index/rosidl_interfaces/arduinobot_msgs
+[4.996s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs
+[4.996s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv
+[4.997s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/euler_to_quaternion.h
+[4.997s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail
+[4.997s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/euler_to_quaternion__functions.h
+[4.997s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/add_two_floats__functions.c
+[4.997s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/add_two_floats__functions.h
+[4.997s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/add_two_floats__type_support.h
+[4.997s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/quaternion_to_euler__functions.c
+[4.997s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/add_two_floats__struct.h
+[4.998s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/euler_to_quaternion__struct.h
+[4.998s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/quaternion_to_euler__type_support.h
+[4.998s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/quaternion_to_euler__struct.h
+[4.998s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/euler_to_quaternion__type_support.h
+[4.998s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/euler_to_quaternion__functions.c
+[4.998s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/quaternion_to_euler__functions.h
+[4.999s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/add_two_floats.h
+[4.999s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/quaternion_to_euler.h
+[4.999s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/msg
+[4.999s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/msg/rosidl_generator_c__visibility_control.h
+[4.999s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action
+[4.999s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action/fibonacci.h
+[4.999s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action/detail
+[4.999s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action/detail/fibonacci__type_support.h
+[4.999s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action/detail/fibonacci__functions.c
+[5.000s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action/detail/fibonacci__struct.h
+[5.000s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action/detail/fibonacci__functions.h
+[5.000s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/environment/library_path.sh
+[5.000s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/environment/library_path.dsv
+[5.000s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/lib/libarduinobot_msgs__rosidl_generator_c.so
+[5.001s] -- Set runtime path of "/home/adi/arduinobot_ws/install/arduinobot_msgs/lib/libarduinobot_msgs__rosidl_generator_c.so" to ""
+[5.001s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs
+[5.001s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv
+[5.001s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail
+[5.001s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/euler_to_quaternion__rosidl_typesupport_fastrtps_c.h
+[5.001s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/add_two_floats__rosidl_typesupport_fastrtps_c.h
+[5.001s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/quaternion_to_euler__rosidl_typesupport_fastrtps_c.h
+[5.001s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/msg
+[5.001s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[5.001s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action
+[5.002s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action/detail
+[5.002s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action/detail/fibonacci__rosidl_typesupport_fastrtps_c.h
+[5.002s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/lib/libarduinobot_msgs__rosidl_typesupport_fastrtps_c.so
+[5.002s] -- Set runtime path of "/home/adi/arduinobot_ws/install/arduinobot_msgs/lib/libarduinobot_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[5.002s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs
+[5.002s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv
+[5.002s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/add_two_floats.hpp
+[5.002s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/quaternion_to_euler.hpp
+[5.003s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail
+[5.003s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/quaternion_to_euler__struct.hpp
+[5.003s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/quaternion_to_euler__traits.hpp
+[5.003s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/euler_to_quaternion__builder.hpp
+[5.003s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/add_two_floats__builder.hpp
+[5.003s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/euler_to_quaternion__traits.hpp
+[5.003s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/add_two_floats__struct.hpp
+[5.003s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/euler_to_quaternion__struct.hpp
+[5.004s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/quaternion_to_euler__builder.hpp
+[5.004s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/add_two_floats__traits.hpp
+[5.004s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/euler_to_quaternion.hpp
+[5.004s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action
+[5.004s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action/fibonacci.hpp
+[5.004s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action/detail
+[5.004s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action/detail/fibonacci__builder.hpp
+[5.004s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action/detail/fibonacci__struct.hpp
+[5.004s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action/detail/fibonacci__traits.hpp
+[5.005s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs
+[5.005s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv
+[5.005s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail
+[5.005s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/dds_fastrtps
+[5.005s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/euler_to_quaternion__rosidl_typesupport_fastrtps_cpp.hpp
+[5.005s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/quaternion_to_euler__rosidl_typesupport_fastrtps_cpp.hpp
+[5.005s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/add_two_floats__rosidl_typesupport_fastrtps_cpp.hpp
+[5.005s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/msg
+[5.005s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[5.006s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action
+[5.006s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action/detail
+[5.006s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action/detail/dds_fastrtps
+[5.006s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action/detail/fibonacci__rosidl_typesupport_fastrtps_cpp.hpp
+[5.006s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/lib/libarduinobot_msgs__rosidl_typesupport_fastrtps_cpp.so
+[5.006s] -- Set runtime path of "/home/adi/arduinobot_ws/install/arduinobot_msgs/lib/libarduinobot_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[5.006s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs
+[5.006s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv
+[5.007s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail
+[5.007s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/quaternion_to_euler__rosidl_typesupport_introspection_c.h
+[5.007s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/add_two_floats__rosidl_typesupport_introspection_c.h
+[5.007s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/add_two_floats__type_support.c
+[5.007s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/euler_to_quaternion__rosidl_typesupport_introspection_c.h
+[5.007s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/quaternion_to_euler__type_support.c
+[5.007s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/euler_to_quaternion__type_support.c
+[5.007s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/msg
+[5.008s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[5.008s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action
+[5.008s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action/detail
+[5.008s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action/detail/fibonacci__type_support.c
+[5.008s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action/detail/fibonacci__rosidl_typesupport_introspection_c.h
+[5.008s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/lib/libarduinobot_msgs__rosidl_typesupport_introspection_c.so
+[5.008s] -- Set runtime path of "/home/adi/arduinobot_ws/install/arduinobot_msgs/lib/libarduinobot_msgs__rosidl_typesupport_introspection_c.so" to ""
+[5.009s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/lib/libarduinobot_msgs__rosidl_typesupport_c.so
+[5.009s] -- Set runtime path of "/home/adi/arduinobot_ws/install/arduinobot_msgs/lib/libarduinobot_msgs__rosidl_typesupport_c.so" to ""
+[5.009s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs
+[5.009s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv
+[5.009s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail
+[5.009s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/quaternion_to_euler__rosidl_typesupport_introspection_cpp.hpp
+[5.009s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/quaternion_to_euler__type_support.cpp
+[5.009s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/add_two_floats__type_support.cpp
+[5.010s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/add_two_floats__rosidl_typesupport_introspection_cpp.hpp
+[5.010s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/euler_to_quaternion__rosidl_typesupport_introspection_cpp.hpp
+[5.010s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/srv/detail/euler_to_quaternion__type_support.cpp
+[5.010s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action
+[5.010s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action/detail
+[5.010s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action/detail/fibonacci__rosidl_typesupport_introspection_cpp.hpp
+[5.010s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/include/arduinobot_msgs/arduinobot_msgs/action/detail/fibonacci__type_support.cpp
+[5.010s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/lib/libarduinobot_msgs__rosidl_typesupport_introspection_cpp.so
+[5.011s] -- Set runtime path of "/home/adi/arduinobot_ws/install/arduinobot_msgs/lib/libarduinobot_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[5.011s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/lib/libarduinobot_msgs__rosidl_typesupport_cpp.so
+[5.011s] -- Set runtime path of "/home/adi/arduinobot_ws/install/arduinobot_msgs/lib/libarduinobot_msgs__rosidl_typesupport_cpp.so" to ""
+[5.011s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/environment/pythonpath.sh
+[5.012s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/environment/pythonpath.dsv
+[5.012s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs-0.0.0-py3.10.egg-info
+[5.012s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs-0.0.0-py3.10.egg-info/dependency_links.txt
+[5.012s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs-0.0.0-py3.10.egg-info/top_level.txt
+[5.012s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs-0.0.0-py3.10.egg-info/PKG-INFO
+[5.012s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs-0.0.0-py3.10.egg-info/SOURCES.txt
+[5.012s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs
+[5.012s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/_arduinobot_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[5.013s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/__init__.py
+[5.013s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/_arduinobot_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[5.013s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/srv
+[5.013s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/srv/_quaternion_to_euler.py
+[5.013s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/srv/__init__.py
+[5.013s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/srv/_add_two_floats_s.c
+[5.013s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/srv/_quaternion_to_euler_s.c
+[5.014s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/srv/_add_two_floats.py
+[5.014s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/srv/_euler_to_quaternion.py
+[5.014s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/srv/_euler_to_quaternion_s.c
+[5.014s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/libarduinobot_msgs__rosidl_generator_py.so
+[5.014s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/arduinobot_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[5.014s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/_arduinobot_msgs_s.ep.rosidl_typesupport_c.c
+[5.015s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/arduinobot_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[5.015s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/action
+[5.015s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/action/__init__.py
+[5.015s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/action/_fibonacci_s.c
+[5.015s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/action/_fibonacci.py
+[5.015s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/arduinobot_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[5.049s] Listing '/home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs'...
+[5.049s] Compiling '/home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/__init__.py'...
+[5.049s] Listing '/home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/action'...
+[5.049s] Compiling '/home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/action/__init__.py'...
+[5.049s] Compiling '/home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/action/_fibonacci.py'...
+[5.049s] Listing '/home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/srv'...
+[5.049s] Compiling '/home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/srv/__init__.py'...
+[5.049s] Compiling '/home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/srv/_add_two_floats.py'...
+[5.049s] Compiling '/home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/srv/_euler_to_quaternion.py'...
+[5.049s] Compiling '/home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/srv/_quaternion_to_euler.py'...
+[5.052s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/arduinobot_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[5.053s] -- Set runtime path of "/home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/arduinobot_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[5.053s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/arduinobot_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[5.054s] -- Set runtime path of "/home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/arduinobot_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[5.054s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/arduinobot_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[5.054s] -- Set runtime path of "/home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages/arduinobot_msgs/arduinobot_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[5.054s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/lib/libarduinobot_msgs__rosidl_generator_py.so
+[5.055s] -- Set runtime path of "/home/adi/arduinobot_ws/install/arduinobot_msgs/lib/libarduinobot_msgs__rosidl_generator_py.so" to ""
+[5.055s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/srv/AddTwoFloats.idl
+[5.055s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/srv/EulerToQuaternion.idl
+[5.055s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/srv/QuaternionToEuler.idl
+[5.055s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/action/Fibonacci.idl
+[5.055s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/srv/AddTwoFloats.srv
+[5.055s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/srv/AddTwoFloats_Request.msg
+[5.055s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/srv/AddTwoFloats_Response.msg
+[5.055s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/srv/EulerToQuaternion.srv
+[5.055s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/srv/EulerToQuaternion_Request.msg
+[5.055s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/srv/EulerToQuaternion_Response.msg
+[5.055s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/srv/QuaternionToEuler.srv
+[5.056s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/srv/QuaternionToEuler_Request.msg
+[5.056s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/srv/QuaternionToEuler_Response.msg
+[5.056s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/action/Fibonacci.action
+[5.056s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/ament_index/resource_index/package_run_dependencies/arduinobot_msgs
+[5.056s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/ament_index/resource_index/parent_prefix_path/arduinobot_msgs
+[5.056s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/environment/ament_prefix_path.sh
+[5.056s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/environment/ament_prefix_path.dsv
+[5.057s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/environment/path.sh
+[5.057s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/environment/path.dsv
+[5.057s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/local_setup.bash
+[5.057s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/local_setup.sh
+[5.057s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/local_setup.zsh
+[5.057s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/local_setup.dsv
+[5.057s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/package.dsv
+[5.057s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/ament_index/resource_index/packages/arduinobot_msgs
+[5.058s] -- Old export file "/home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/export_arduinobot_msgs__rosidl_generator_cExport.cmake" will be replaced.  Removing files [/home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/export_arduinobot_msgs__rosidl_generator_cExport-noconfig.cmake].
+[5.058s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/export_arduinobot_msgs__rosidl_generator_cExport.cmake
+[5.058s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/export_arduinobot_msgs__rosidl_generator_cExport-noconfig.cmake
+[5.058s] -- Old export file "/home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/export_arduinobot_msgs__rosidl_typesupport_fastrtps_cExport.cmake" will be replaced.  Removing files [/home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/export_arduinobot_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake].
+[5.058s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/export_arduinobot_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[5.058s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/export_arduinobot_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[5.058s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/export_arduinobot_msgs__rosidl_generator_cppExport.cmake
+[5.059s] -- Old export file "/home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/export_arduinobot_msgs__rosidl_typesupport_fastrtps_cppExport.cmake" will be replaced.  Removing files [/home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/export_arduinobot_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake].
+[5.059s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/export_arduinobot_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[5.059s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/export_arduinobot_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[5.059s] -- Old export file "/home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/arduinobot_msgs__rosidl_typesupport_introspection_cExport.cmake" will be replaced.  Removing files [/home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/arduinobot_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake].
+[5.059s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/arduinobot_msgs__rosidl_typesupport_introspection_cExport.cmake
+[5.059s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/arduinobot_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[5.059s] -- Old export file "/home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/arduinobot_msgs__rosidl_typesupport_cExport.cmake" will be replaced.  Removing files [/home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/arduinobot_msgs__rosidl_typesupport_cExport-noconfig.cmake].
+[5.059s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/arduinobot_msgs__rosidl_typesupport_cExport.cmake
+[5.060s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/arduinobot_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[5.060s] -- Old export file "/home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/arduinobot_msgs__rosidl_typesupport_introspection_cppExport.cmake" will be replaced.  Removing files [/home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/arduinobot_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake].
+[5.060s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/arduinobot_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[5.060s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/arduinobot_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[5.060s] -- Old export file "/home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/arduinobot_msgs__rosidl_typesupport_cppExport.cmake" will be replaced.  Removing files [/home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/arduinobot_msgs__rosidl_typesupport_cppExport-noconfig.cmake].
+[5.060s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/arduinobot_msgs__rosidl_typesupport_cppExport.cmake
+[5.060s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/arduinobot_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[5.061s] -- Old export file "/home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/export_arduinobot_msgs__rosidl_generator_pyExport.cmake" will be replaced.  Removing files [/home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/export_arduinobot_msgs__rosidl_generator_pyExport-noconfig.cmake].
+[5.061s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/export_arduinobot_msgs__rosidl_generator_pyExport.cmake
+[5.061s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/export_arduinobot_msgs__rosidl_generator_pyExport-noconfig.cmake
+[5.061s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/rosidl_cmake-extras.cmake
+[5.061s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[5.061s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[5.061s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[5.061s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[5.061s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[5.061s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[5.061s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/arduinobot_msgsConfig.cmake
+[5.062s] -- Up-to-date: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/arduinobot_msgsConfig-version.cmake
+[5.062s] -- Installing: /home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/package.xml
+[5.064s] Invoked command in '/home/adi/arduinobot_ws/build/arduinobot_msgs' returned '0': CMAKE_PREFIX_PATH=/home/adi/arduinobot_ws/install/arduinobot_msgs:/home/adi/arduinobot_ws/install/arduinobot_movit:/home/adi/arduinobot_ws/install/arduinobot_description:/home/adi/arduinobot_ws/install/arduinobot_controller:/home/adi/arduinobot_ws/install/arduinobot_utils:/home/adi/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble:/home/adi/catkin_ws/devel:/opt/ros/noetic /usr/bin/cmake --install /home/adi/arduinobot_ws/build/arduinobot_msgs

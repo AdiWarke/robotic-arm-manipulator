@@ -1,0 +1,11 @@
+/home/adi/arduinobot_ws/build/arduinobot_remote/CMakeFiles/uninstall.dir
+/home/adi/arduinobot_ws/build/arduinobot_remote/CMakeFiles/arduinobot_remote_uninstall.dir
+/home/adi/arduinobot_ws/build/arduinobot_remote/CMakeFiles/task_server.dir
+/home/adi/arduinobot_ws/build/arduinobot_remote/CMakeFiles/task_server_node.dir
+/home/adi/arduinobot_ws/build/arduinobot_remote/CMakeFiles/test.dir
+/home/adi/arduinobot_ws/build/arduinobot_remote/CMakeFiles/edit_cache.dir
+/home/adi/arduinobot_ws/build/arduinobot_remote/CMakeFiles/rebuild_cache.dir
+/home/adi/arduinobot_ws/build/arduinobot_remote/CMakeFiles/list_install_components.dir
+/home/adi/arduinobot_ws/build/arduinobot_remote/CMakeFiles/install.dir
+/home/adi/arduinobot_ws/build/arduinobot_remote/CMakeFiles/install/local.dir
+/home/adi/arduinobot_ws/build/arduinobot_remote/CMakeFiles/install/strip.dir

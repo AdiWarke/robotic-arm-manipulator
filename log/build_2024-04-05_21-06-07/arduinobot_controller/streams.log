@@ -1,0 +1,11 @@
+[0.016s] Invoking command in '/home/adi/arduinobot_ws/build/arduinobot_controller': CMAKE_PREFIX_PATH=/home/adi/arduinobot_ws/install/arduinobot_description:/home/adi/arduinobot_ws/install/arduinobot_controller:/home/adi/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble:/home/adi/catkin_ws/devel:/opt/ros/noetic /usr/bin/cmake --build /home/adi/arduinobot_ws/build/arduinobot_controller -- -j12 -l12
+[0.268s] Invoked command in '/home/adi/arduinobot_ws/build/arduinobot_controller' returned '0': CMAKE_PREFIX_PATH=/home/adi/arduinobot_ws/install/arduinobot_description:/home/adi/arduinobot_ws/install/arduinobot_controller:/home/adi/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble:/home/adi/catkin_ws/devel:/opt/ros/noetic /usr/bin/cmake --build /home/adi/arduinobot_ws/build/arduinobot_controller -- -j12 -l12
+[0.292s] Invoking command in '/home/adi/arduinobot_ws/build/arduinobot_controller': CMAKE_PREFIX_PATH=/home/adi/arduinobot_ws/install/arduinobot_description:/home/adi/arduinobot_ws/install/arduinobot_controller:/home/adi/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble:/home/adi/catkin_ws/devel:/opt/ros/noetic /usr/bin/cmake --install /home/adi/arduinobot_ws/build/arduinobot_controller
+[0.298s] -- Install configuration: ""
+[0.298s] [31mCMake Error at cmake_install.cmake:46 (file):
+[0.298s]   file INSTALL cannot find
+[0.298s]   "/home/adi/arduinobot_ws/src/arduinobot_controller/launch": No such file or
+[0.298s]   directory.
+[0.298s] 
+[0.298s] [0m
+[0.302s] Invoked command in '/home/adi/arduinobot_ws/build/arduinobot_controller' returned '1': CMAKE_PREFIX_PATH=/home/adi/arduinobot_ws/install/arduinobot_description:/home/adi/arduinobot_ws/install/arduinobot_controller:/home/adi/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble:/home/adi/catkin_ws/devel:/opt/ros/noetic /usr/bin/cmake --install /home/adi/arduinobot_ws/build/arduinobot_controller

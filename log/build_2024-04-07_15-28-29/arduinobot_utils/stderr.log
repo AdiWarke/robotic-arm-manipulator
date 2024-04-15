@@ -1,0 +1,5 @@
+  File "/home/adi/arduinobot_ws/install/arduinobot_utils/lib/python3.10/site-packages/arduinobot_utils/angle_conversion.py", line 14
+    def 
+        ^
+SyntaxError: invalid syntax
+

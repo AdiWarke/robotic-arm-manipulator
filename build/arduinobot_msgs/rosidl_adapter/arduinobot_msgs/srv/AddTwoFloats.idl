@@ -1,0 +1,21 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from arduinobot_msgs/srv/AddTwoFloats.srv
+// generated code does not contain a copyright notice
+
+
+module arduinobot_msgs {
+  module srv {
+    @verbatim (language="comment", text=
+      "Request msg")
+    struct AddTwoFloats_Request {
+      double a;
+
+      double b;
+    };
+    @verbatim (language="comment", text=
+      "Response msg")
+    struct AddTwoFloats_Response {
+      double sum;
+    };
+  };
+};

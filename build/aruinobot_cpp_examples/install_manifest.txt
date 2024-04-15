@@ -1,0 +1,16 @@
+/home/adi/arduinobot_ws/install/aruinobot_cpp_examples/lib/aruinobot_cpp_examples/simple_moveit_interface
+/home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/ament_index/resource_index/package_run_dependencies/aruinobot_cpp_examples
+/home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/ament_index/resource_index/parent_prefix_path/aruinobot_cpp_examples
+/home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/aruinobot_cpp_examples/environment/ament_prefix_path.sh
+/home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/aruinobot_cpp_examples/environment/ament_prefix_path.dsv
+/home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/aruinobot_cpp_examples/environment/path.sh
+/home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/aruinobot_cpp_examples/environment/path.dsv
+/home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/aruinobot_cpp_examples/local_setup.bash
+/home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/aruinobot_cpp_examples/local_setup.sh
+/home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/aruinobot_cpp_examples/local_setup.zsh
+/home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/aruinobot_cpp_examples/local_setup.dsv
+/home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/aruinobot_cpp_examples/package.dsv
+/home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/ament_index/resource_index/packages/aruinobot_cpp_examples
+/home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/aruinobot_cpp_examples/cmake/aruinobot_cpp_examplesConfig.cmake
+/home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/aruinobot_cpp_examples/cmake/aruinobot_cpp_examplesConfig-version.cmake
+/home/adi/arduinobot_ws/install/aruinobot_cpp_examples/share/aruinobot_cpp_examples/package.xml

@@ -1,0 +1,24 @@
+[1.211s] Invoking command in '/home/adi/arduinobot_ws/src/arduinobot_utils': PYTHONPATH=/home/adi/arduinobot_ws/build/arduinobot_utils/prefix_override:/home/adi/arduinobot_ws/install/arduinobot_utils/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/arduinobot_utils build --build-base /home/adi/arduinobot_ws/build/arduinobot_utils/build install --record /home/adi/arduinobot_ws/build/arduinobot_utils/install.log --single-version-externally-managed install_data
+[1.434s] running egg_info
+[1.435s] writing ../../build/arduinobot_utils/arduinobot_utils.egg-info/PKG-INFO
+[1.435s] writing dependency_links to ../../build/arduinobot_utils/arduinobot_utils.egg-info/dependency_links.txt
+[1.435s] writing entry points to ../../build/arduinobot_utils/arduinobot_utils.egg-info/entry_points.txt
+[1.435s] writing requirements to ../../build/arduinobot_utils/arduinobot_utils.egg-info/requires.txt
+[1.435s] writing top-level names to ../../build/arduinobot_utils/arduinobot_utils.egg-info/top_level.txt
+[1.439s] reading manifest file '../../build/arduinobot_utils/arduinobot_utils.egg-info/SOURCES.txt'
+[1.440s] writing manifest file '../../build/arduinobot_utils/arduinobot_utils.egg-info/SOURCES.txt'
+[1.440s] running build
+[1.440s] running build_py
+[1.440s] copying arduinobot_utils/angle_conversion.py -> /home/adi/arduinobot_ws/build/arduinobot_utils/build/lib/arduinobot_utils
+[1.440s] running install
+[1.440s] running install_lib
+[1.441s] copying /home/adi/arduinobot_ws/build/arduinobot_utils/build/lib/arduinobot_utils/angle_conversion.py -> /home/adi/arduinobot_ws/install/arduinobot_utils/lib/python3.10/site-packages/arduinobot_utils
+[1.441s] byte-compiling /home/adi/arduinobot_ws/install/arduinobot_utils/lib/python3.10/site-packages/arduinobot_utils/angle_conversion.py to angle_conversion.cpython-310.pyc
+[1.442s] running install_data
+[1.442s] running install_egg_info
+[1.444s] removing '/home/adi/arduinobot_ws/install/arduinobot_utils/lib/python3.10/site-packages/arduinobot_utils-0.0.0-py3.10.egg-info' (and everything under it)
+[1.444s] Copying ../../build/arduinobot_utils/arduinobot_utils.egg-info to /home/adi/arduinobot_ws/install/arduinobot_utils/lib/python3.10/site-packages/arduinobot_utils-0.0.0-py3.10.egg-info
+[1.445s] running install_scripts
+[1.464s] Installing angle_conversion script to /home/adi/arduinobot_ws/install/arduinobot_utils/lib/arduinobot_utils
+[1.465s] writing list of installed files to '/home/adi/arduinobot_ws/build/arduinobot_utils/install.log'
+[1.500s] Invoked command in '/home/adi/arduinobot_ws/src/arduinobot_utils' returned '0': PYTHONPATH=/home/adi/arduinobot_ws/build/arduinobot_utils/prefix_override:/home/adi/arduinobot_ws/install/arduinobot_utils/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/arduinobot_utils build --build-base /home/adi/arduinobot_ws/build/arduinobot_utils/build install --record /home/adi/arduinobot_ws/build/arduinobot_utils/install.log --single-version-externally-managed install_data

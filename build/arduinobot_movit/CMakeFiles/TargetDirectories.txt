@@ -1,0 +1,9 @@
+/home/adi/arduinobot_ws/build/arduinobot_movit/CMakeFiles/uninstall.dir
+/home/adi/arduinobot_ws/build/arduinobot_movit/CMakeFiles/arduinobot_movit_uninstall.dir
+/home/adi/arduinobot_ws/build/arduinobot_movit/CMakeFiles/test.dir
+/home/adi/arduinobot_ws/build/arduinobot_movit/CMakeFiles/edit_cache.dir
+/home/adi/arduinobot_ws/build/arduinobot_movit/CMakeFiles/rebuild_cache.dir
+/home/adi/arduinobot_ws/build/arduinobot_movit/CMakeFiles/list_install_components.dir
+/home/adi/arduinobot_ws/build/arduinobot_movit/CMakeFiles/install.dir
+/home/adi/arduinobot_ws/build/arduinobot_movit/CMakeFiles/install/local.dir
+/home/adi/arduinobot_ws/build/arduinobot_movit/CMakeFiles/install/strip.dir

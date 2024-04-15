@@ -1,0 +1,5 @@
+/home/adi/arduinobot_ws/build/arduinobot_msgs/rosidl_adapter/arduinobot_msgs:srv/AddTwoFloats.idl
+/home/adi/arduinobot_ws/build/arduinobot_msgs/rosidl_adapter/arduinobot_msgs:srv/EulerToQuaternion.idl
+/home/adi/arduinobot_ws/build/arduinobot_msgs/rosidl_adapter/arduinobot_msgs:srv/QuaternionToEuler.idl
+/home/adi/arduinobot_ws/build/arduinobot_msgs/rosidl_adapter/arduinobot_msgs:action/Fibonacci.idl
+/home/adi/arduinobot_ws/build/arduinobot_msgs/rosidl_adapter/arduinobot_msgs:action/ArduinobotTask.idl

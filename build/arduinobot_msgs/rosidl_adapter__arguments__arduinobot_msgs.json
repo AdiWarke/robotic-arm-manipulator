@@ -1,0 +1,10 @@
+{
+  "package_name": "arduinobot_msgs",
+  "non_idl_tuples": [
+    "/home/adi/arduinobot_ws/src/arduinobot_msgs:srv/AddTwoFloats.srv",
+    "/home/adi/arduinobot_ws/src/arduinobot_msgs:srv/EulerToQuaternion.srv",
+    "/home/adi/arduinobot_ws/src/arduinobot_msgs:srv/QuaternionToEuler.srv",
+    "/home/adi/arduinobot_ws/src/arduinobot_msgs:action/Fibonacci.action",
+    "/home/adi/arduinobot_ws/src/arduinobot_msgs:action/ArduinobotTask.action"
+  ]
+}

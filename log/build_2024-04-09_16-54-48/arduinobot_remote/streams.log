@@ -1,0 +1,58 @@
+[0.217s] Invoking command in '/home/adi/arduinobot_ws/build/arduinobot_remote': CMAKE_PREFIX_PATH=/home/adi/arduinobot_ws/install/arduinobot_msgs:/home/adi/arduinobot_ws/install/aruinobot_cpp_examples:/home/adi/arduinobot_ws/install/arduinobot_remote:/home/adi/arduinobot_ws/install/arduinobot_movit:/home/adi/arduinobot_ws/install/arduinobot_description:/home/adi/arduinobot_ws/install/arduinobot_controller:/home/adi/catkin_ws/devel:/opt/ros/noetic LD_LIBRARY_PATH=/home/adi/arduinobot_ws/install/arduinobot_msgs/lib:/home/adi/arduinobot_ws/install/arduinobot_remote/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/home/adi/catkin_ws/devel/lib:/opt/ros/noetic/lib /usr/bin/cmake --build /home/adi/arduinobot_ws/build/arduinobot_remote -- -j12 -l12
+[0.433s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.433s] -- Found rclcpp: 16.0.8 (/opt/ros/humble/share/rclcpp/cmake)
+[0.434s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.434s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.434s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.434s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.434s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.434s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.436s] -- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+[0.459s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[0.588s] -- Found rclcpp_action: 16.0.8 (/opt/ros/humble/share/rclcpp_action/cmake)
+[0.657s] -- Found rclcpp_components: 16.0.8 (/opt/ros/humble/share/rclcpp_components/cmake)
+[0.701s] -- Found arduinobot_msgs: 0.0.0 (/home/adi/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake)
+[0.744s] -- Found moveit_ros_planning_interface: 2.5.5 (/opt/ros/humble/share/moveit_ros_planning_interface/cmake)
+[0.753s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: date_time filesystem program_options system thread 
+[1.409s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: chrono date_time filesystem iostreams program_options regex serialization system thread 
+[1.415s] -- Found parameter_traits: 0.3.8 (/opt/ros/humble/share/parameter_traits/cmake)
+[1.425s] -- Found rclcpp_lifecycle: 16.0.8 (/opt/ros/humble/share/rclcpp_lifecycle/cmake)
+[1.457s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: filesystem 
+[1.485s] -- library: /usr/lib/x86_64-linux-gnu/libcurl.so
+[1.601s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[1.918s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system filesystem date_time program_options thread chrono 
+[2.322s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: thread system filesystem regex date_time program_options 
+[2.512s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system filesystem date_time program_options thread 
+[2.836s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.887s] Error parsing '/home/adi/arduinobot_ws/src/arduinobot_remote/package.xml':
+[2.921s] Traceback (most recent call last):
+[2.922s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 150, in <module>
+[2.922s]     main()
+[2.922s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 53, in main
+[2.922s]     raise e
+[2.922s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 49, in main
+[2.922s]     package = parse_package_string(
+[2.922s]   File "/usr/lib/python3/dist-packages/catkin_pkg/package.py", line 788, in parse_package_string
+[2.922s]     pkg.validate(warnings=warnings)
+[2.922s]   File "/usr/lib/python3/dist-packages/catkin_pkg/package.py", line 330, in validate
+[2.922s]     raise InvalidPackage('\n'.join(errors), self.filename)
+[2.922s] catkin_pkg.package.InvalidPackage: Error(s) in package '/home/adi/arduinobot_ws/src/arduinobot_remote/package.xml':
+[2.922s] The package "arduinobot_msgs" must not "build_depend" on a package with the same name as this package
+[2.922s] The package "arduinobot_msgs" must not "build_export_depend" on a package with the same name as this package
+[2.922s] The package "arduinobot_msgs" must not "exec_depend" on a package with the same name as this package
+[2.933s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:95 (message):
+[2.933s]   execute_process(/usr/bin/python3
+[2.933s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py
+[2.933s]   /home/adi/arduinobot_ws/src/arduinobot_remote/package.xml
+[2.933s]   /home/adi/arduinobot_ws/build/arduinobot_remote/ament_cmake_core/package.cmake)
+[2.933s]   returned error code 1
+[2.933s] Call Stack (most recent call first):
+[2.933s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:49 (_ament_package_xml)
+[2.933s]   /opt/ros/humble/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake:31 (ament_package_xml)
+[2.933s]   CMakeLists.txt:49 (ament_lint_auto_find_test_dependencies)
+[2.933s] 
+[2.933s] [0m
+[2.934s] -- Configuring incomplete, errors occurred!
+[2.934s] See also "/home/adi/arduinobot_ws/build/arduinobot_remote/CMakeFiles/CMakeOutput.log".
+[2.942s] gmake: *** [Makefile:336: cmake_check_build_system] Error 1
+[2.943s] Invoked command in '/home/adi/arduinobot_ws/build/arduinobot_remote' returned '2': CMAKE_PREFIX_PATH=/home/adi/arduinobot_ws/install/arduinobot_msgs:/home/adi/arduinobot_ws/install/aruinobot_cpp_examples:/home/adi/arduinobot_ws/install/arduinobot_remote:/home/adi/arduinobot_ws/install/arduinobot_movit:/home/adi/arduinobot_ws/install/arduinobot_description:/home/adi/arduinobot_ws/install/arduinobot_controller:/home/adi/catkin_ws/devel:/opt/ros/noetic LD_LIBRARY_PATH=/home/adi/arduinobot_ws/install/arduinobot_msgs/lib:/home/adi/arduinobot_ws/install/arduinobot_remote/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/home/adi/catkin_ws/devel/lib:/opt/ros/noetic/lib /usr/bin/cmake --build /home/adi/arduinobot_ws/build/arduinobot_remote -- -j12 -l12

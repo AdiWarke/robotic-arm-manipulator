@@ -1,0 +1,3 @@
+[console_scripts]
+angle_conversion = arduinobot_utils.angle_conversion:main
+

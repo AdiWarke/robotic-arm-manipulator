@@ -1,0 +1,18 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/adi/arduinobot_ws/install/arduinobot_utils/lib/python3.10/site-packages",
+        "/home/adi/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages",
+        "/home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages",
+        "/home/adi/catkin_ws/devel/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/adi/arduinobot_ws/install/arduinobot_utils/lib/python3.10/site-packages",
+        "/home/adi/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages",
+        "/home/adi/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages",
+        "/home/adi/catkin_ws/devel/lib/python3/dist-packages"
+    ]
+}
